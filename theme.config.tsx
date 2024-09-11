@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
     project: {
         link: 'https://github.com/SoBold/DECKARD',
     },
-    docsRepositoryBase: 'https://github.com/SoBold/DECKARD-DOC',
+    docsRepositoryBase: 'https://github.com/SoBold/Deckard-docs',
     footer: {
         text: 'DECKARD Docs | SoBold',
     },
