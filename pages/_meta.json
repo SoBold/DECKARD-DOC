@@ -1,0 +1,16 @@
+{
+    "index": "Introduction",
+    "setup": "Setup",
+    "build-process": "Build Process",
+    "structure": "Structure",
+    "about": {
+        "title": "About",
+        "type": "page"
+    },
+    "contact": {
+        "title": "Contact ↗",
+        "type": "page",
+        "href": "https://sobold.co.uk",
+        "newWindow": true
+    }
+}
